@@ -70,7 +70,7 @@ public class Pacientes {
         this.fecha = fecha;
         this.horaLlegada = horaLlegada;
         this.horaSalida = horaSalida;
-        this.clasificacion = clasificacion;
+        this.clasificacion = "";
     }
     public Pacientes() {
         
